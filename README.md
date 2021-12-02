@@ -2,7 +2,7 @@
 Hand tracking and volume control with mediapipe and opencv in python
 
 This project is based on tutorials from [Murtaza's Workshop - Robotics and AI](https://www.youtube.com/channel/UCYUjYU5FveRAscQ8V21w81A) on YouTube
-woth the following videos:
+with the following videos:
 
 [Hand Tracking 30 FPS using CPU](https://www.youtube.com/watch?v=NZde8Xt78Iw)
 
