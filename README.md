@@ -12,3 +12,6 @@ with the following videos:
 
 [Advance Gesture Volume Control [Part 2]](https://www.youtube.com/watch?v=9ZRqc4EaPRU)
 
+![image](https://user-images.githubusercontent.com/59362676/144409928-aab6d524-afd3-494b-8626-3dd0eba81031.png)
+
+![image](https://user-images.githubusercontent.com/59362676/144409791-e8d1cf96-fa84-453f-9b03-dfc12c1b6f60.png)
